@@ -1,0 +1,16 @@
+{
+  "name": "genpark-tool-usage-telemetry-efficiency-profiler-skill",
+  "version": "1.0.0",
+  "description": "Tool call success rate, failure recurrence rate, and execution latency efficiency profiler for agent tool optimization.",
+  "author": "GenPark AI",
+  "license": "MIT",
+  "keywords": [
+    "telemetry",
+    "profiler",
+    "tool-efficiency",
+    "latency",
+    "agent-metrics",
+    "genpark",
+    "mcp"
+  ]
+}
